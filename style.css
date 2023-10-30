@@ -1,0 +1,18 @@
+form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+
+.elemento-pai {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .elemento-filho {
+    /* nothing */
+  }
